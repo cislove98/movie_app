@@ -1,5 +1,14 @@
 
-
+a:link{
+    color:#2f2f2f;
+    text-decoration: none;
+}
+a:visited{
+    color:#2f2f2f;
+}
+a:hover{
+    color:#2f2f2f;
+}
 
 .movies{
     display:flex;
@@ -52,7 +61,7 @@ img{
 .movie_title{
     color:#2f2f2f;
     font-size: 35px;
-    margin-bottom: 22px;
+    margin-bottom: 30px;
     font-weight: 700;
     line-height: 40px;
 }
@@ -63,7 +72,6 @@ img{
     align-content: flex-end;
     height:20px;
     font-size: 15px;
-    padding-top: 10px;
     opacity:0.7;
 }
 
