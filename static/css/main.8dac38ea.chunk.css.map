@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Movie.css","webpack://src/App.css"],"names":[],"mappings":"AAAA,cACI,oBACJ,CCFA,KACI,wBAAwB,CACxB,aACJ","file":"main.8dac38ea.chunk.css","sourcesContent":[".movie-geners{\r\n    list-style-type: none;\r\n}","body{\r\n    background-color:#2f2f2f;\r\n    color:#f2f2f2;\r\n}\r\n"]}
