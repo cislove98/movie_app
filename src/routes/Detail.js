@@ -25,4 +25,4 @@ class Detail extends React.Component{
     그로인해 state===undefinie 상태가 된다.
 */
 
-export default Detail;
+export default Detail;                                  
